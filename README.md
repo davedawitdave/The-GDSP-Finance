@@ -19,7 +19,7 @@ Description of the models used, their architecture, any necessary hyperparameter
 Summary of the project results, any tables, figures, or plots showing the performance of the models and the outcome of the project.
 
 ## Contributing
-Guidelines for anyone who wants to contribute to the project.
+Dawit Asmero Atinafu.
 
 ## License
 The license for the project.
