@@ -1,4 +1,4 @@
-#Grand Data Science Project
+# Grand Data Science Project
 
 ## Overview
 This project aims to predict stock prices and optimize portfolio allocation using machine learning. We collect financial data, preprocess it, and use it to train AI models for prediction and optimization.
